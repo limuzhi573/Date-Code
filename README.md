@@ -34,7 +34,7 @@ No external dependencies
 
 dataï¼š
 
-prostate cancer clinical treatment data
+Clinical treatment data of 8 patients with prostate cancer
 
 Patient Fitted Parameter Results Table
 
@@ -58,7 +58,7 @@ Figure 5. Patient Group Optimization of Deep Reinforcement Learning Algorithm â€
 
 (1).Install all required dependent libraries.
 
-(2).When running codes on a new device, modify the file path in scripts according to actual storage location.
+(2).Save the clinical treatment data for eight prostate cancer patients into the desktop new folder path prostate cancer clinical treatment data\\Bruchovsky\_et\_al,then modify the prefix of the file reading path in the code to match the local directory path of your current computer.
 
 (3).Minor deviations may exist in repeated running results while the overall trend remains consistent. Increasing iteration times can optimize the performance.
 
